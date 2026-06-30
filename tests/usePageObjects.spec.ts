@@ -31,4 +31,5 @@ test('parametrized methods @smoke', async({page}) => {
     // await pm.onDatePickerPage().selectCommonDatePickerDateFromToday(2)
     // await pm.onDatePickerPage().selectDatePickerWithRangeFromToday(1, 2)
     //samuel21
+    //added this comment for the new branch
 })
